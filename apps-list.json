@@ -4,13 +4,15 @@
       "id": "seal",
       "name": "Seal",
       "logo": "apps/seal/logo.png",
-      "domestic_availability": "可用"
+      "domestic_availability": "可用",
+      "release_date": "2023-11-15"
     },
     {
       "id": "localsend",
       "name": "localsend",
       "logo": "apps/localsend/logo.png",
-      "domestic_availability": "可用"
+      "domestic_availability": "可用",
+      "release_date": "2023-10-20"
     }
   ]
 }
