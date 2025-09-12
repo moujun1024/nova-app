@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "id": "seal",
+      "name": "Seal",
+      "logo": "apps/seal/logo.png",
+      "domestic_availability": "可用"
+    },
+    {
+      "id": "localsend",
+      "name": "localsend",
+      "logo": "apps/localsend/logo.png",
+      "domestic_availability": "可用"
+    }
+  ]
+}
