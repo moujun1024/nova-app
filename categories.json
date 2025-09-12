@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "id": "tools",
+      "name": "工具类",
+      "subtitle": "实用工具集",
+      "description": "实用工具应用程序，提供各种日常所需的辅助功能",
+      "features": [
+        "系统优化",
+        "文件管理",
+        "网络工具",
+        "安全防护"
+      ]
+    },
+    {
+      "id": "communication",
+      "name": "通讯类",
+      "subtitle": "社交与沟通",
+      "description": "通讯和社交应用程序，连接人与人之间的交流",
+      "features": [
+        "即时通讯",
+        "文件传输",
+        "语音通话",
+        "视频会议"
+      ]
+    },
+    {
+      "id": "media",
+      "name": "媒体类",
+      "subtitle": "影音娱乐",
+      "description": "音频和视频处理应用程序，提供丰富的媒体体验",
+      "features": [
+        "视频播放",
+        "音频处理",
+        "图像编辑",
+        "流媒体服务"
+      ]
+    },
+    {
+      "id": "productivity",
+      "name": "效率类",
+      "subtitle": "工作助手",
+      "description": "提高工作效率的应用程序，优化工作流程",
+      "features": [
+        "文档处理",
+        "日程管理",
+        "笔记记录",
+        "任务协作"
+      ]
+    },
+    {
+      "id": "entertainment",
+      "name": "娱乐类",
+      "subtitle": "休闲娱乐",
+      "description": "游戏和娱乐应用程序，提供放松和娱乐体验",
+      "features": [
+        "休闲游戏",
+        "益智解谜",
+        "阅读应用",
+        "创意娱乐"
+      ]
+    }
+  ]
+}

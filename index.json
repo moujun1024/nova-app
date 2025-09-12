@@ -1,0 +1,9 @@
+{
+  "title": "Nova App Store",
+  "version": "1.0.0",
+  "description": "Nova 应用商店入口文件",
+  "navigation": {
+    "apps": "apps-list.json",
+    "categories": "categories.json"
+  }
+}
