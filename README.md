@@ -1,5 +1,14 @@
 # Nova App 开源应用商店
 
+<p align="center">
+  <img src="logo.svg" alt="Nova App Logo" width="200">
+</p>
+
+<p align="center">
+  <strong>Nova App 开源应用商店</strong><br>
+  版本：1.0.0
+</p>
+
 Nova App 是一个开源应用商店项目，采用全新的结构设计，旨在为用户提供经过审核的优质开源应用。**本项目计算范围仅限于后端部分，不包含前端实现。**
 
 ## 项目定位：应用仓库
