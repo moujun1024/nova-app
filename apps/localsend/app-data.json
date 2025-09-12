@@ -1,0 +1,65 @@
+{
+  "app": {
+    "id": "localsend",
+    "name": "LocalSend",
+    "logo": "org.localsend.localsend_app.png",
+    "screenshots": [
+      "Screenshot_20250911_231953_edit_113243658148287.jpg",
+      "Screenshot_20250911_231957_edit_113263446217596.jpg",
+      "Screenshot_20250911_232018.jpg"
+    ],
+    "description": "LocalSend 是一个免费、开源的跨平台应用，允许您通过本地网络安全地与附近设备共享文件和消息，无需互联网连接。它使用 REST API 和 HTTPS 加密进行设备间安全通信，不依赖外部服务器，提供快速可靠的本地通信解决方案。",
+    "author": {
+      "name": "LocalSend Team",
+      "github": "https://github.com/localsend",
+      "description": "开源开发团队，致力于创建安全、隐私保护的本地文件传输工具"
+    },
+    "license": "MIT License",
+    "source_code": "https://github.com/localsend/localsend",
+    "domestic_availability": {
+      "status": "可用",
+      "description": "在国内可以正常使用，无需互联网连接即可在本地网络中传输文件"
+    },
+    "version": "1.15.0",
+    "release_date": "2024-09-11",
+    "minimum_system_versions": {
+      "android": "5.0",
+      "ios": "12.0",
+      "macos": "11 Big Sur",
+      "windows": "10",
+      "linux": "N.A."
+    },
+    "category": "工具",
+    "platforms": [
+      "Android",
+      "iOS",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "features": [
+      "本地文件传输",
+      "跨平台支持",
+      "无需互联网连接",
+      "端到端加密",
+      "多设备同时连接",
+      "简单易用界面",
+      "开源免费"
+    ],
+    "openSource": {
+      "isOpenSource": true,
+      "license": "MIT License",
+      "repository": "https://github.com/localsend/localsend",
+      "description": "LocalSend 是一款完全开源的应用，遵循 MIT 开源协议，欢迎开发者贡献代码。"
+    },
+    "packageUrl": "LocalSend-1.17.0-android-arm64v8.apk",
+    "download_links": {
+      "android": "https://play.google.com/store/apps/details?id=org.localsend.localsend_app",
+      "ios": "https://apps.apple.com/app/localsend/id1661732918",
+      "windows": "https://github.com/localsend/localsend/releases",
+      "macos": "https://github.com/localsend/localsend/releases",
+      "linux": "https://github.com/localsend/localsend/releases",
+      "github": "https://github.com/localsend/localsend/releases"
+    }
+  }
+}
