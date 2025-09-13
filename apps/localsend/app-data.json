@@ -4,9 +4,9 @@
     "name": "LocalSend",
     "logo": "org.localsend.localsend_app.png",
     "screenshots": [
-      "Screenshot_20250911_231953_edit_113243658148287.jpg",
-      "Screenshot_20250911_231957_edit_113263446217596.jpg",
-      "Screenshot_20250911_232018.jpg"
+      "screenshot1.jpg",
+      "screenshot2.jpg",
+      "screenshot3.jpg"
     ],
     "description": "LocalSend 是一个免费、开源的跨平台应用，允许您通过本地网络安全地与附近设备共享文件和消息，无需互联网连接。它使用 REST API 和 HTTPS 加密进行设备间安全通信，不依赖外部服务器，提供快速可靠的本地通信解决方案。",
     "author": {
@@ -60,6 +60,32 @@
       "macos": "https://github.com/localsend/localsend/releases",
       "linux": "https://github.com/localsend/localsend/releases",
       "github": "https://github.com/localsend/localsend/releases"
+    },
+    "no_history_versions": true,
+    "permissions": {
+      "android": [
+        "读取存储权限",
+        "写入存储权限",
+        "访问网络权限",
+        "查看WiFi连接权限",
+        "局域网通信权限"
+      ],
+      "ios": [
+        "文件访问权限",
+        "网络权限"
+      ],
+      "windows": [
+        "文件访问权限",
+        "网络权限"
+      ],
+      "macos": [
+        "文件访问权限",
+        "网络权限"
+      ],
+      "linux": [
+        "文件访问权限",
+        "网络权限"
+      ]
     }
   }
 }

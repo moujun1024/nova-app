@@ -46,6 +46,16 @@
     "download_links": {
       "android": "app.apk",
       "github": "https://github.com/JunkFood02/Seal"
+    },
+    "no_history_versions": true,
+    "permissions": {
+      "android": [
+        "读取存储权限",
+        "写入存储权限",
+        "访问网络权限",
+        "读取媒体文件权限",
+        "安装未知来源应用权限"
+      ]
     }
   }
 }
