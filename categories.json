@@ -1,64 +1,109 @@
 {
   "categories": [
     {
-      "id": "tools",
-      "name": "工具类",
-      "subtitle": "实用工具集",
-      "description": "实用工具应用程序，提供各种日常所需的辅助功能",
-      "features": [
-        "系统优化",
-        "文件管理",
-        "网络工具",
-        "安全防护"
-      ]
+      "id": "featured_recommendations",
+      "name": "精选推荐",
+      "appIds": []
     },
     {
-      "id": "communication",
-      "name": "通讯类",
-      "subtitle": "社交与沟通",
-      "description": "通讯和社交应用程序，连接人与人之间的交流",
-      "features": [
-        "即时通讯",
-        "文件传输",
-        "语音通话",
-        "视频会议"
-      ]
+      "id": "system_optimization",
+      "name": "系统优化",
+      "appIds": []
     },
     {
-      "id": "media",
-      "name": "媒体类",
-      "subtitle": "影音娱乐",
-      "description": "音频和视频处理应用程序，提供丰富的媒体体验",
-      "features": [
-        "视频播放",
-        "音频处理",
-        "图像编辑",
-        "流媒体服务"
-      ]
+      "id": "phone_tools",
+      "name": "玩机软件",
+      "appIds": []
     },
     {
-      "id": "productivity",
-      "name": "效率类",
-      "subtitle": "工作助手",
-      "description": "提高工作效率的应用程序，优化工作流程",
-      "features": [
-        "文档处理",
-        "日程管理",
-        "笔记记录",
-        "任务协作"
-      ]
+      "id": "efficiency_tools",
+      "name": "效率工具",
+      "appIds": []
     },
     {
-      "id": "entertainment",
-      "name": "娱乐类",
-      "subtitle": "休闲娱乐",
-      "description": "游戏和娱乐应用程序，提供放松和娱乐体验",
-      "features": [
-        "休闲游戏",
-        "益智解谜",
-        "阅读应用",
-        "创意娱乐"
-      ]
+      "id": "practical_tools",
+      "name": "实用工具",
+      "appIds": ["localsend"]
+    },
+    {
+      "id": "artificial_intelligence",
+      "name": "人工智能",
+      "appIds": []
+    },
+    {
+      "id": "video_player",
+      "name": "视频播放器",
+      "appIds": []
+    },
+    {
+      "id": "music_player",
+      "name": "音乐播放器",
+      "appIds": []
+    },
+    {
+      "id": "text_reader",
+      "name": "文本阅读",
+      "appIds": []
+    },
+    {
+      "id": "comic_download",
+      "name": "漫画类下载工具",
+      "appIds": []
+    },
+    {
+      "id": "learning_essential",
+      "name": "学习必备",
+      "appIds": []
+    },
+    {
+      "id": "office_software",
+      "name": "办公软件",
+      "appIds": []
+    },
+    {
+      "id": "resource_search",
+      "name": "资源搜索",
+      "appIds": []
+    },
+    {
+      "id": "software_repository",
+      "name": "软件仓库",
+      "appIds": []
+    },
+    {
+      "id": "chat",
+      "name": "聊天",
+      "appIds": []
+    },
+    {
+      "id": "file_management",
+      "name": "文件管理",
+      "appIds": []
+    },
+    {
+      "id": "web_browsing",
+      "name": "网页浏览",
+      "appIds": []
+    },
+    {
+      "id": "life_essential",
+      "name": "生活必备",
+      "appIds": []
+    },
+    {
+      "id": "media_editing",
+      "name": "媒体编辑",
+      "appIds": []
+    },
+    {
+      "id": "media_download",
+      "name": "媒体下载",
+      "appIds": ["seal"]
+    },
+    {
+      "id": "community_interaction",
+      "name": "社区互动",
+      "appIds": []
     }
   ]
 }
